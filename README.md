@@ -145,7 +145,7 @@ echo buildHTML::go($html->get());
 
 Mas ainda têm muito mais, veja como manipular tabelas usando a Fascinio junto com pacote Brilhante
 
-``php
+```php
 
 $tabela = new TabelaHtml(null, null,
     ['nome' => 'João Silva', 'idade' => '39', 'profissao' => 'Programador PHP']);
