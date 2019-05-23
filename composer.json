@@ -1,0 +1,19 @@
+{
+    "name": "abarbosa/brillhante",
+    "description": "Classes para criação de páginas HTML",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexandre Barbosa",
+            "email": "alxbbarbosa@yahoo.com.br"
+        }
+    ],
+    "require": {},
+    "autoload" : {
+        "psr-4" : {
+            "InfoDinamics\\Brilhante\\Html\\Gadgets\\" : "Framework/src/brilhante/classes/",
+            "InfoDinamics\\Fascinio\\Html\\Gadgets\tabela\\" : "Framework/src/fascinio/classes/"
+        }
+    }
+}
