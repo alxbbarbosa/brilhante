@@ -1,6 +1,6 @@
 <?php
 
-namespace InfoDinamics\Fascinio;
+namespace InfoDinamics\Fascinio\Html\Gadgets;
 
 /**
  * Classe que define uma tabela de dados

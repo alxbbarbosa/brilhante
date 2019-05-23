@@ -8,7 +8,7 @@ use InfoDinamics\Brilhante\Html\Gadgets\Tbody;
 use InfoDinamics\Brilhante\Html\Gadgets\Tr;
 use InfoDinamics\Brilhante\Html\Gadgets\Th;
 use InfoDinamics\Brilhante\Html\Gadgets\Td;
-use InfoDinamics\Fascinio\Html\Gadgets\tabela;
+use InfoDinamics\Fascinio\Html\Gadgets\Tabela;
 
 /**
  * Classe para criar tabelaHtml
@@ -17,7 +17,7 @@ use InfoDinamics\Fascinio\Html\Gadgets\tabela;
  * Info Dinamics Development
  * @author Alexandre Bezerra Barbosa
  */
-class TabelaHtml extends tabela
+class TabelaHtml extends Tabela
 {
     protected $name;
     protected $tableHtml;

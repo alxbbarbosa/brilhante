@@ -13,7 +13,7 @@
     "autoload" : {
         "psr-4" : {
             "InfoDinamics\\Brilhante\\Html\\Gadgets\\" : "Framework/src/brilhante/classes/",
-            "InfoDinamics\\Fascinio\\Html\\Gadgets\tabela\\" : "Framework/src/fascinio/classes/"
+            "InfoDinamics\\Fascinio\\Html\\Gadgets\\" : "Framework/src/fascinio/classes/"
         }
     }
 }
